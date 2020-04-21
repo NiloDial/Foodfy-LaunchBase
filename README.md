@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="230" height="220" src="https://lh3.googleusercontent.com/FaCjd_g1mlNQrOngwp2LoRGumwFZgTmx0Vll1y4fm1y-pjHTCxwuY6KAz6-oFU4rZDgkUQSY76qXCDflzhlGgLnJlQcWZ4i48jcOcnH6hPfUEoLsvLp2RB4-6FlPQa03PYHao-D_u80JijkZ6al-3Ek4fXYJrwMk_uqGwMRbvQcpIftoPiT46hzVFB3jeck9EjoK6qN2rglYBkDOfpUPBkjctvtdjV29vXBf2WAeCGp8J7_zi-RjwDiIs22jmn4GB9b1nmvBxZgWN4Df4t2knul17gWvoX4C9xFhG4Tx66JMs7lTsQqyPnNY2J8Q2HlKjUx4AGw1cT2-3lvqMS-yzMJDxeNwHsoVF1HDAMkUQQZRQUlnH3WHFcs7jNRNJPMsxEqEbENolGIoXwOdK6GKyV36nixn8pJsuVmMyw1rOlx88ZXtIfJ-ScB3scnPu6rLCfYDNrkmyA0AY4Uj-Qv7AWhebt_Nxw07avEZ0G9frasVwtP9WhN3uycLb9K5wNQoSdc51IsGTuD5FbIQw3LZzc28aAodJi2JzISvmLzd77PJF6DrwrXkXjZWQxhjMUHdz1GpjiP4VUwM0NGCoOeEb7ZajOJrOb66nAI-P9KtouWK3Un54hfIQC4EeELvFmN3T7OVjgiHraqnT72jBr2wgpo29x6q-EqiD9K7tD04P09QYKzwH6XDkadxHNjP=w639-h729-no">
+  <img width="230" height="220" src="https://i.pinimg.com/originals/60/21/c2/6021c279e13df6348cbcd23433f4d34f.png">
 </p>
 <h1>FOODFY</h1>
 <P>O foodfy foi desenvolvido durante o curso LaunchBase.</P>
